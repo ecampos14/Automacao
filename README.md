@@ -1,1 +1,1 @@
-# Automa-oVendas
+# Automação
